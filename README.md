@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Sahith
 
-<!--
-**sahithmagadala-collab/sahithmagadala-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Passionate about AI/ML and Software Development
+- Learning Python, DSA, Web Development, and Machine Learning
+- Building practical projects to strengthen my skills
+
+## Skills
+
+### Programming
+- Python
+- C
+- C++
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+
+### AI / ML
+- NLP Basics
+- Machine Learning Basics
+- AI Chatbots
+
+## Projects
+
+### 🎰 Slot Machine Game
+A Python-based slot machine simulator featuring:
+- Randomized outcomes
+- Betting system
+- Balance management
+- Console-based gameplay
+
+### 🤖 HumanAI Chatbot
+An AI chatbot built using:
+- Python
+- Streamlit
+- Ollama
+- Llama 3
+
+Features:
+- Human-like conversations
+- Local AI model
+- No API key required
+- Session memory
+
+### ✍️ AI Autocorrect Tool
+A text correction tool developed using Python.
+
+Features:
+- Spell checking
+- Word correction
+- NLP concepts
+- User-friendly interface
+
+## Current Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Full Stack Development
+
+## Connect With Me
+
+GitHub:
+github.com/sahithmagadala-collab
+
+---
+⭐ Thanks for visiting my profile!
