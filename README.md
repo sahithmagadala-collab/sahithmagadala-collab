@@ -1,16 +1,17 @@
 # Hi 👋, I'm Sahith
 
-🎓 B.Tech Student
+🎓 B.Tech Computer Science and Engineering Student
 
 ## About Me
 
-- Passionate about AI/ML and Software Development
-- Learning Python, DSA, Web Development, and Machine Learning
-- Building practical projects to strengthen my skills
+- Passionate about Artificial Intelligence, Machine Learning, and Software Development.
+- Currently learning Python, Data Structures & Algorithms, Full Stack Development, and Machine Learning.
+- Interested in building practical applications that solve real-world problems.
+- Continuously improving my technical skills through hands-on projects and open-source development.
 
 ## Skills
 
-### Programming
+### Programming Languages
 - Python
 - C
 - C++
@@ -21,51 +22,110 @@
 - CSS
 
 ### AI / ML
-- NLP Basics
 - Machine Learning Basics
+- Natural Language Processing (NLP)
+- Optical Character Recognition (OCR)
 - AI Chatbots
 
 ## Projects
 
-### 🎰 Slot Machine Game
-A Python-based slot machine simulator featuring:
-- Randomized outcomes
-- Betting system
-- Balance management
-- Console-based gameplay
+### DocuTrust – AI-Powered Document Verification System
 
-### 🤖 HumanAI Chatbot
-An AI chatbot built using:
+An AI-powered document verification system developed using Python, Streamlit, and Tesseract OCR. The application extracts text from uploaded identity documents, validates Aadhaar and PAN card formats, and generates a Trust Score to assist in preliminary document verification.
+
+**Features**
+- Upload identity document images
+- OCR-based text extraction using Tesseract
+- Aadhaar number validation
+- PAN card validation
+- Trust Score generation
+- Display extracted text and verification results
+- Fast and user-friendly Streamlit interface
+- Modular and scalable project architecture
+
+**Technologies Used**
+- Python
+- Streamlit
+- Tesseract OCR
+- Pillow (PIL)
+- Regular Expressions (Regex)
+
+**GitHub Repository**
+- https://github.com/sahithmagadala-collab/DocuTrust
+
+---
+
+### HumanAI Chatbot
+
+An AI chatbot built using Python, Streamlit, Ollama, and Llama 3 that enables human-like conversations using a locally hosted Large Language Model.
+
+**Features**
+- Human-like conversations
+- Local AI model (Llama 3)
+- No API key required
+- Session memory
+- Interactive Streamlit interface
+
+**Technologies Used**
 - Python
 - Streamlit
 - Ollama
 - Llama 3
 
-Features:
-- Human-like conversations
-- Local AI model
-- No API key required
-- Session memory
+---
 
-### ✍️ AI Autocorrect Tool
-A text correction tool developed using Python.
+### AI Autocorrect Tool
 
-Features:
+A text correction application developed using Python and Natural Language Processing (NLP) concepts to automatically identify and correct spelling mistakes.
+
+**Features**
 - Spell checking
 - Word correction
-- NLP concepts
+- Sentence correction
 - User-friendly interface
+
+**Technologies Used**
+- Python
+- Streamlit
+- TextBlob
+- Regular Expressions
+
+---
+
+### Slot Machine Game
+
+A Python-based slot machine simulator that demonstrates random number generation, betting logic, and balance management through an interactive console application.
+
+**Features**
+- Randomized slot generation
+- Betting system
+- Balance management
+- Win/Loss calculation
+- Console-based gameplay
+
+**Technologies Used**
+- Python
 
 ## Current Learning
 
 - Data Structures & Algorithms
 - Machine Learning
 - Full Stack Development
+- Computer Vision
+- Deep Learning Fundamentals
 
 ## Connect With Me
 
-GitHub:
-github.com/sahithmagadala-collab
+**GitHub**
+- https://github.com/sahithmagadala-collab
+
+## Goals
+
+- Build impactful AI and Machine Learning applications.
+- Strengthen problem-solving and software development skills.
+- Contribute to open-source projects.
+- Secure opportunities in AI/ML and Software Development.
 
 ---
-⭐ Thanks for visiting my profile!
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
