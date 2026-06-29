@@ -50,10 +50,6 @@ An AI-powered document verification system developed using Python, Streamlit, an
 - Pillow (PIL)
 - Regular Expressions (Regex)
 
-**GitHub Repository**
-- https://github.com/sahithmagadala-collab/DocuTrust
-
----
 
 ### HumanAI Chatbot
 
